@@ -17,7 +17,7 @@ compensation.
 
 ## Demo
 
-> **Live demo placeholder:** [`https://example.com/support-rage-sim/`](https://example.com/support-rage-sim/)
+> **Live demo:** [`https://sim.pseudoef.pp.ua/`](https://sim.pseudoef.pp.ua/)
 > Replace this URL with the deployed `demo/` directory.
 
 The public demo is a static site. Open `demo/index.html` from disk, or serve the
